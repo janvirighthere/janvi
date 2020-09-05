@@ -1,0 +1,19 @@
+#top { background-color: beige;
+    text-align: center;
+
+}
+
+table {
+    border: solid black;
+    border-collapse: collapse;
+}
+th, td {
+    border: solid black;
+    padding: 5px;
+}
+#message {
+    size: 30px;
+}
+body {
+    background-color: burlywood;
+}
